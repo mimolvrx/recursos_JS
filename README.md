@@ -24,10 +24,6 @@ Prática dos principais métodos de arrays, como:
 - `forEach()`
 - `map()`
 - `filter()`
-- `find()`
-- `reduce()`
-- `some()`
-- `every()`
 
 ### 📄 metodosObjetos.js
 Estudo dos principais métodos para manipulação de objetos.
